@@ -1,0 +1,17 @@
+{
+    "blogs":[
+        {
+            "title":"My first blog",
+            "body": "Why we use?/nit is a long established fact tat a reader will be distracted.",
+            "author": "Mario",
+            "id": 1
+        },
+        {
+            "title":"Opening Part",
+            "body": "Why we use?/nit is a long established fact tat a reader will be distracted.",
+            "author": "Yoshi",
+            "id": 2
+        }
+    
+    ]
+}
